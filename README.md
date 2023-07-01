@@ -1,4 +1,5 @@
 First Come First Serve (FCFS) Scheduling Algorithm.
+FCFS Scheduling algorithm automatically executes the queued processes and requests in the order of their arrival. It allocates the job that first arrived in the queue to the CPU, then allocates the second one, and so on. FCFS is the simplest and easiest CPU scheduling algorithm, managed with a FIFO queue
 
 ALGORITHM:
 1.	Read the number of processes and burst time of each process.
